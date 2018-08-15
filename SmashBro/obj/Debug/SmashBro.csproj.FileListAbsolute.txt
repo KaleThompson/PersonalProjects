@@ -1,0 +1,9 @@
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\bin\Debug\SmashBro.exe.config
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\bin\Debug\SmashBro.exe
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\bin\Debug\SmashBro.pdb
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\obj\Debug\SmashBro.csprojResolveAssemblyReference.cache
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\obj\Debug\SmashBro.Properties.Resources.resources
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\obj\Debug\SmashBro.csproj.GenerateResource.Cache
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\obj\Debug\SmashBro.exe
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\obj\Debug\SmashBro.pdb
+C:\Users\Skoga\documents\visual studio 2017\Projects\SmashBro\SmashBro\obj\Debug\SmashBro.SmashBros.resources
